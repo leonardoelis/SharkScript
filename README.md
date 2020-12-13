@@ -4,5 +4,6 @@ Implementação de um compilador para uma linguagem de programação fictícia. 
   <li>A linguagem criada aceita três tipos de variáveis: números inteiros, números de ponto flutuante e cadeias de caracteres.</li>
   <li>É possível realizar operações aritméticas básicas, como soma, subtração, multiplicação e divisão.</li>
   <li>É possível também realizar atribuições, fazendo a checagem de escopo, tipo e inicialização das variáveis.</li>
+  <li>Há também comandos para impressão de informações na tela e leitura de variáveis.</li>
   <li>Ao final da execução do programa escrito na linguagem fictícia criada (SharkScript), é gerada uma tradução do programa em SharkScript para um programa em Java.</li>
 </ul>
