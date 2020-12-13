@@ -1,0 +1,22 @@
+begin
+	float nota1;
+	float nota2;
+	print("Digite a primeira nota: ");
+	read(nota1);
+	print("Digite a segunda nota: ");
+	read(nota2);
+	float soma;
+	soma = nota1 + nota2;
+	float media;
+	media = soma/2;
+	print("===========================");
+	print("RESULTADOS:");
+	print("Primeira Nota: ");
+	print(nota1);
+	print("Segunda Nota: ");
+	print(nota2);
+	print("Soma: ");
+	print(soma);
+	print("Média: ");
+	print(media);
+end
